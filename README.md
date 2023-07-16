@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WEGASS
+- 👋 Hi, I’m @WEGAS66
 - 👀 I’m interested in Python, Backend-development, Django, Blockchain
 - 🌱 I’m currently learning JS, Vue
 - 💞️ I’m looking to collaborate on some cool Django-projects
