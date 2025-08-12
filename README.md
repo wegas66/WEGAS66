@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WEGAS66
-- 👀 I’m interested in Python, Backend-development, Django, Blockchain
-- 🌱 I’m currently learning JS, Vue
-- 💞️ I’m looking to collaborate on some cool Django-projects
+- 👀 I’m interested in Python, Backend-development, Fast-API, React, Blockchains
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on some cool Python-projects
 - 📫 How to reach me https://t.me/Wegas66
 
 <!---
